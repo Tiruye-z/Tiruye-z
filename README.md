@@ -3,9 +3,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Research project
-- 🌱 I’m currently learning Cybersecurity 
+- 🌱 I’m currently learning Cybersecurity in Canisius University
 - 👯 I’m looking to collaborate on projects related to cybersecurity
-- 🤔 I’m looking for help with getting intership in project managmenr- cybersecurity for summer 2025
+- 🤔 I’m looking for help with getting intership in project managmenr- cybersecurity for summer 2024
 - 💬 Ask me about Project Mangment, Cybersecurity
 - 😄 Pronouns: she/her
 
