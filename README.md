@@ -3,11 +3,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Research project
-- 🌱 I’m currently learning Cybersecurity in Canisius University
+- 🌱 I’m currently doing masters degree in Cybersecurity at Canisius University
 - 👯 I’m looking to collaborate on projects related to cybersecurity
-- 🤔 I’m looking for help with getting intership in project managmenr- cybersecurity for summer 2024
-- 💬 Ask me about Project Mangment, Cybersecurity
-- 😄 Pronouns: she/her
+- 💬 Ask me about Software Engineering, Cybersecurity, Project Mangment
+-  Pronouns: she/her
 
 
 <!--
