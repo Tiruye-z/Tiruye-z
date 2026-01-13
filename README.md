@@ -1,4 +1,4 @@
-//<img align="right" width="400" src="https://github.com/Tiruye-z/Tiruye-z/blob/main/WhatsApp%20Image%202023-11-09%20at%203.44.29%20PM%20(1).jpeg">
+<img align="right" width="400" src="https://github.com/Tiruye-z/Tiruye-z/blob/main/WhatsApp%20Image%202023-11-09%20at%203.44.29%20PM%20(1).jpeg">
 
 ### Hi there 👋
 
